@@ -114,9 +114,9 @@ const Fernando-Krypton = {
 <p align="center">
     <a href="https://github.com/krypton-bytes">
         <img height="150em"
-            src="https://github-readme-stats.vercel.app/api?username=krypton-bytes&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22" />
+            src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=krypton-bytes&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=1&show_owner=true%22" alt="Top langs"/>
         <img height="150em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=krypton-bytes&theme=dark&hide_border=false&&layout=compact" />
+            src="https://github-readme-stats-git-master-doguedogue.vercel.app/api/top-langs/?username=krypton-bytes&theme=radical&hide=SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Dockerfile,Shell,Typescript&hide_border=1&&layout=compact" alt="My stats" />
     </a>
 </p>
 
