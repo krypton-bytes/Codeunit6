@@ -120,7 +120,12 @@ const Fernando-Krypton = {
     </a>
 </p>
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=krypton-bytes&theme=radical&no-frame=true&align=center&row=1" alt="trophy's">
+</p>
 
+
+[![krypton-byte's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=krypton-bytes&custom_title=My%20contributions&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Snake eating my contributions
 <p align="center">
@@ -149,3 +154,9 @@ spek14programacion :link: ` <link>` :  [Mi canal de YouTube](https://www.youtube
 - Puedes ver tutoriales orientados al backend
 - Tengo tutoriales de conceptos
 - Sigueme si gustas 
+
+
+<h2 align="center">GRACIAS POR LEER</h2>
+<p align="center">    
+    <img src="https://media.tenor.com/ce0kdBXzKk0AAAAC/reincarnated-as-a-slime-rimuru-tempest.gif" width="400">
+</p>
