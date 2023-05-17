@@ -18,23 +18,23 @@
 
 ## About me
 ```javascript
-const Fernando-Krypton = {
+const Fernando_Krypton = {
   code:  ['Python', 'PHP', 'C#', 'Java', 'GO', 'HTML', 'CSS', 'SQL', 'JavaScript'],
   areas: ['Backend', 'Cloud', 'Data', 'IA'],
   tools: ['TensorFlow', 'Laravel', 'Navicat', 'VueJS', 'Angular', 'Node.js'],
   aboutme: {
-              education: 'Software Engineer graduated from the Polytechnic University of Tecamac',  
-              lenguages: 'Spanish', 'English',
-              pronouns:  'El', 'He/Him',
-              hobbies: 'Learn too fast', 'Drink coffee', 'Learn programming'
-            },
+    education: 'Software Engineer graduated from the Polytechnic University of Tecamac',  
+    languages: ['Spanish', 'English'],
+    pronouns:  ['El', 'He/Him'],
+    hobbies: ['Learn too fast', 'Drink coffee', 'Learn programming']
+  },
   contacts: {
-              celphone: '5540124899',
-              instagram: 'fer_seeker',
-              facebook: 'fer_seeker',
-              gmail: 'fernando.brayan.m.g@gmail.com'
-            },
- motto: 'Hack the world, one byte at a time'
+    celphone: '5540124899',
+    instagram: 'fer_seeker',
+    facebook: 'fer_seeker',
+    gmail: 'fernando.brayan.m.g@gmail.com'
+  },
+  motto: 'Hack the world, one byte at a time'
 }
 ```
 <div align="center">
