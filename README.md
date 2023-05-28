@@ -125,7 +125,7 @@ const Fernando_Krypton = {
 </p>
 
 
-[![krypton-byte's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=krypton-bytes&custom_title=My%20contributions&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![krypton-byte's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krypton-bytes&custom_title=My%20contributions&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Snake eating my contributions
 <p align="center">
