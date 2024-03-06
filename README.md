@@ -16,6 +16,7 @@
             src="https://img.shields.io/badge/Follow-fer_seeker-blue.svg?style=social&logo=instagram"
             alt="ferseeker" />
     </p>
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto+Code&pause=1000&color=%F7E800FD&size=18&vCenter=true&height=18&lines=👋+Hey+there,+I'm+Fernando+Mejia.;👋+Alias+Krypton+Bytes.;💻+A+Self+Taught+Programmer.;👨🏻‍💻+Master+Student.;👨🏻‍💻+Master+Cibersecurity+And+Web+Developer.)](https://github.com/krypton-bytes)
 </div>
 <p align="center">
     <img src="https://github.com/Codeunit6/Codeunit6/blob/main/anbu.jpg" width="800">
