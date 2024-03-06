@@ -1,7 +1,7 @@
 <h1 align="center">👋 I'm Fernando B. Mejia Gomez 👋</h1>
 <div align="center">
     
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&width=435&lines=%3C%F0%9F%91%8B+Hello%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Ciao%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Hola%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Bonjour%2C+World!+%2F+%3E)](https://github.com/krypton-bytes)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E800FD&center=true&width=435&lines=%3C%F0%9F%91%8B+Hello%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Ciao%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Hola%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Bonjour%2C+World!+%2F+%3E)](https://github.com/krypton-bytes)
   
 </div>  
 <div align="center">
