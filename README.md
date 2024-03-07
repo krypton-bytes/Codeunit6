@@ -28,7 +28,7 @@
 </div>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto+Code&pause=1000&color=%F7E800FD&size=18&vCenter=true&height=16&lines=👋+Alias+Krypton+Bytes.;💻+A+Self+Taught+Programmer.;👨🏻‍💻+Master+Student.;👨🏻‍💻+Master+Cibersecurity.)](https://github.com/krypton-bytes)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto+Code&pause=1000&color=%F7E800FD&size=18&v&center=true&width=435&lines=👋+Alias+Krypton+Bytes.;💻+A+Self+Taught+Programmer.;👨🏻‍💻+Master+Student.;👨🏻‍💻+Master+Cibersecurity.)](https://github.com/krypton-bytes)
 
 </div>
 
