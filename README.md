@@ -22,7 +22,7 @@
 </p>
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto+Code&pause=1000&color=%F7E800FD&size=18&vCenter=true&height=18&lines=👋+Hey+there,+I'm+Fernando+Mejia.)](https://github.com/krypton-bytes)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E800FD&center=true&width=435&lines=👋+Hey+there,+I'm+Fernando+Mejia.)](https://github.com/krypton-bytes)
 
 
 </div>
