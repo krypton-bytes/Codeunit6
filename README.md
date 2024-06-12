@@ -39,9 +39,10 @@ const Fernando_Krypton = {
   areas: ['Backend', 'Cloud', 'Data', 'IA'],
   tools: ['TensorFlow', 'Laravel', 'Navicat', 'VueJS', 'Angular', 'Node.js'],
   aboutme: {
-    education: 'Software Engineer graduated from the Polytechnic University of Tecamac',  
+    education: ['Software Engineer graduated from the Universidad Politecnica de Tecamac (UPT)','Universidad Autonoma de Guadalajara (UAG)'],  
     languages: ['Spanish', 'English'],
     pronouns:  ['El', 'He/Him'],
+    graduates: ['Soft skills UAG','networks and systems with cybersecurity','ISO 27001 auditor', 'ISO/IEC 9001 auditor'],
     hobbies: ['Learn too fast', 'Drink coffee', 'Learn programming']
   },
   contacts: {
